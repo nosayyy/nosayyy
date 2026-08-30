@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm nosayyy
 
-<!--
-**nosayyy/nosayyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Minimalism, control, system thinking** — not just words, but a way to live and write code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+- **Arch Linux** — my home for several years now
+- **Qtile** — my main WM, but I'm currently writing my own in C
+- **Python** — for scripts, utilities, and fast prototypes
+- **C** — for system tools and window managers
+- **Information Security** — the direction I'm growing into
+- **Minimalism** — not just a style, but a philosophy
+
+---
+
+> *"Less code — fewer holes"*
