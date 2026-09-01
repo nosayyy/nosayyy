@@ -1,10 +1,10 @@
-# 👋 Hi, I'm nosayyy
+# Hi, I'm nosayyy
 
-**Minimalism, control, system thinking** — not just words, but a way to live and write code.
+**Minimalism, control, system thinking**
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 - **Arch Linux** — my home for several years now
 - **Qtile** — my main WM, but I'm currently writing my own in C
