@@ -1,4 +1,4 @@
-## hi, I'm nosayyy
+## hi, i'm nosayyy
 
 **minimalism, control, system thinking**
 
