@@ -1,8 +1,6 @@
-# hi, I'm nosayyy
+## hi, I'm nosayyy
 
 **minimalism, control, system thinking**
-
----
 
 ### about me
 
@@ -10,7 +8,5 @@
 - **wm** — qtile, but i'm writing my own in c
 - **languages** — python and c
 - **infosec** — where i'm heading
-
----
 
 > *"Less code — fewer holes"*
