@@ -1,7 +1,5 @@
 ## hi, i'm nosayyy
 
-**minimalism, control, system thinking**
-
 ### about me
 
 - **linux dist** — arch linux, my home for years
