@@ -1,1 +1,1 @@
-<img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
+<img src="output/bonsai.gif" width="384" alt="my git-bonsai" />
