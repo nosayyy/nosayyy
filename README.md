@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/nosayyy">Telegram</a> · <a href="mailto:ona6864@gmail.com">Email</a>
+  <a href="https://t.me/nosayyy">Telegram</a> · <a href="mailto:nosayyy77@gmail.com">Email</a>
 </p>
