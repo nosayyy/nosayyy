@@ -11,3 +11,7 @@
   <img src="https://img.shields.io/badge/Debian-555555?style=flat-square&logo=debian&logoColor=white" alt="Debian"/>
   <img src="https://img.shields.io/badge/Networking-555555?style=flat-square&logo=wireshark&logoColor=white" alt="Networking"/>
 </p>
+
+<p align="center">
+  <a href="https://t.me/nosayyy">Telegram</a> · <a href="mailto:ona6864@gmail.com">Email</a>
+</p>
